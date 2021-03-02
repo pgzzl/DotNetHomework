@@ -1,7 +1,0 @@
-C:\Users\zhang zi long\source\repos\计算器控制台程序\bin\Debug\计算器控制台程序.exe.config
-C:\Users\zhang zi long\source\repos\计算器控制台程序\bin\Debug\计算器控制台程序.exe
-C:\Users\zhang zi long\source\repos\计算器控制台程序\bin\Debug\计算器控制台程序.pdb
-C:\Users\zhang zi long\source\repos\计算器控制台程序\obj\Debug\Calculator.csprojAssemblyReference.cache
-C:\Users\zhang zi long\source\repos\计算器控制台程序\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
-C:\Users\zhang zi long\source\repos\计算器控制台程序\obj\Debug\计算器控制台程序.exe
-C:\Users\zhang zi long\source\repos\计算器控制台程序\obj\Debug\计算器控制台程序.pdb
