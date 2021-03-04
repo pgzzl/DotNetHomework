@@ -1,0 +1,10 @@
+C:\Users\zhang zi long\source\repos\Homework1\Calculator_WindowsFormsApp\bin\Debug\Calculator_WindowsFormsApp.exe.config
+C:\Users\zhang zi long\source\repos\Homework1\Calculator_WindowsFormsApp\bin\Debug\Calculator_WindowsFormsApp.exe
+C:\Users\zhang zi long\source\repos\Homework1\Calculator_WindowsFormsApp\bin\Debug\Calculator_WindowsFormsApp.pdb
+C:\Users\zhang zi long\source\repos\Homework1\Calculator_WindowsFormsApp\obj\Debug\Calculator_WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\zhang zi long\source\repos\Homework1\Calculator_WindowsFormsApp\obj\Debug\Calculator_WindowsFormsApp.Form1.resources
+C:\Users\zhang zi long\source\repos\Homework1\Calculator_WindowsFormsApp\obj\Debug\Calculator_WindowsFormsApp.Properties.Resources.resources
+C:\Users\zhang zi long\source\repos\Homework1\Calculator_WindowsFormsApp\obj\Debug\Calculator_WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\zhang zi long\source\repos\Homework1\Calculator_WindowsFormsApp\obj\Debug\Calculator_WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\zhang zi long\source\repos\Homework1\Calculator_WindowsFormsApp\obj\Debug\Calculator_WindowsFormsApp.exe
+C:\Users\zhang zi long\source\repos\Homework1\Calculator_WindowsFormsApp\obj\Debug\Calculator_WindowsFormsApp.pdb
