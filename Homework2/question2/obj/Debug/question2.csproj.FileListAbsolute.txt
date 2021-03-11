@@ -1,0 +1,7 @@
+C:\Users\zhang zi long\source\repos\ClassHomework2\question2\bin\Debug\question2.exe.config
+C:\Users\zhang zi long\source\repos\ClassHomework2\question2\bin\Debug\question2.exe
+C:\Users\zhang zi long\source\repos\ClassHomework2\question2\bin\Debug\question2.pdb
+C:\Users\zhang zi long\source\repos\ClassHomework2\question2\obj\Debug\question2.csprojAssemblyReference.cache
+C:\Users\zhang zi long\source\repos\ClassHomework2\question2\obj\Debug\question2.csproj.CoreCompileInputs.cache
+C:\Users\zhang zi long\source\repos\ClassHomework2\question2\obj\Debug\question2.exe
+C:\Users\zhang zi long\source\repos\ClassHomework2\question2\obj\Debug\question2.pdb
