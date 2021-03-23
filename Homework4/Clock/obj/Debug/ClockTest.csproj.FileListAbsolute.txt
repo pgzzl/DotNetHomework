@@ -1,0 +1,7 @@
+C:\Users\zhang zi long\source\repos\Homework4\Clock\obj\Debug\ClockTest.csprojAssemblyReference.cache
+C:\Users\zhang zi long\source\repos\Homework4\Clock\obj\Debug\ClockTest.csproj.CoreCompileInputs.cache
+C:\Users\zhang zi long\source\repos\Homework4\Clock\bin\Debug\Clock.exe.config
+C:\Users\zhang zi long\source\repos\Homework4\Clock\bin\Debug\Clock.exe
+C:\Users\zhang zi long\source\repos\Homework4\Clock\bin\Debug\Clock.pdb
+C:\Users\zhang zi long\source\repos\Homework4\Clock\obj\Debug\Clock.exe
+C:\Users\zhang zi long\source\repos\Homework4\Clock\obj\Debug\Clock.pdb
