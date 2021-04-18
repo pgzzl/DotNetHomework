@@ -1,0 +1,14 @@
+C:\Users\zzl\source\repos\Homework8\Homework8\bin\Debug\Homework8.exe.config
+C:\Users\zzl\source\repos\Homework8\Homework8\bin\Debug\Homework8.exe
+C:\Users\zzl\source\repos\Homework8\Homework8\bin\Debug\Homework8.pdb
+C:\Users\zzl\source\repos\Homework8\Homework8\obj\Debug\Homework8.csprojAssemblyReference.cache
+C:\Users\zzl\source\repos\Homework8\Homework8\obj\Debug\Homework8.Form1.resources
+C:\Users\zzl\source\repos\Homework8\Homework8\obj\Debug\Homework8.Properties.Resources.resources
+C:\Users\zzl\source\repos\Homework8\Homework8\obj\Debug\Homework8.csproj.GenerateResource.cache
+C:\Users\zzl\source\repos\Homework8\Homework8\obj\Debug\Homework8.csproj.CoreCompileInputs.cache
+C:\Users\zzl\source\repos\Homework8\Homework8\obj\Debug\Homework8.exe
+C:\Users\zzl\source\repos\Homework8\Homework8\obj\Debug\Homework8.pdb
+C:\Users\zzl\source\repos\Homework8\Homework8\obj\Debug\Homework8.FormNewOrder.resources
+C:\Users\zzl\source\repos\Homework8\Homework8\obj\Debug\Homework8.FormDelOrder.resources
+C:\Users\zzl\source\repos\Homework8\Homework8\obj\Debug\Homework8.FormDetail.resources
+C:\Users\zzl\source\repos\Homework8\Homework8\obj\Debug\Homework8.Resource1.resources
