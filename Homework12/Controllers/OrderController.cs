@@ -90,7 +90,10 @@ namespace BlogApi.Controllers
             }
             try
             {
-                orderDb.Entry(order).State = EntityState.Modified;
+                var oldorder = orderDb.Orders.Include(o => o.Customer).FirstOrDefault(o => o.OrderID == id);
+                oldorder.OrderID = order.OrderID;
+                oldorder.Customer = order.Customer;
+                //orderDb.Entry(order).State = EntityState.Modified;
                 orderDb.SaveChanges();
             }
             catch (Exception e)

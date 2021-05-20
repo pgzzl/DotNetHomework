@@ -7,10 +7,10 @@
       <File FileName="Properties/launchSettings.json" />
       <File FileName="models/Order.cs" Line="11" Column="11" />
       <File FileName="models/Customer.cs" />
-      <File FileName="models/OrderDetail.cs" Line="22" Column="1" />
+      <File FileName="models/OrderDetail.cs" />
       <File FileName="models/Goods.cs" />
       <File FileName="models/OrderContext.cs" Line="15" Column="15" />
-      <File FileName="Controllers/OrderController.cs" Line="32" Column="3" />
+      <File FileName="Controllers/OrderController.cs" Line="95" Column="52" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,6 +20,7 @@
               <Node name="Controllers" expanded="True">
                 <Node name="OrderController.cs" selected="True" />
               </Node>
+              <Node name="models" expanded="True" />
               <Node name="Properties" expanded="True" />
             </Node>
           </Node>
