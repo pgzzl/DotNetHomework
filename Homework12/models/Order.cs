@@ -8,7 +8,7 @@ namespace TodoApi.models
 
         public int OrderID { get; set; }
         public Customer Customer { get; set; }
-        public List<OrderDetail> OrderDetails { get; set; }
+        //public List<OrderDetail> OrderDetails { get; set; }
 
     }
 }

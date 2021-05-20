@@ -868,11 +868,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zilongzhang/Desktop/WHU/软件构造基础/课件配套示例代码/附加章/TodoApi/Homework12.csproj",
+      "projectUniqueName": "/Users/zilongzhang/Desktop/WHU/软件构造基础/DotNetHomework/Homework12/Homework12.csproj",
       "projectName": "Homework12",
-      "projectPath": "/Users/zilongzhang/Desktop/WHU/软件构造基础/课件配套示例代码/附加章/TodoApi/Homework12.csproj",
+      "projectPath": "/Users/zilongzhang/Desktop/WHU/软件构造基础/DotNetHomework/Homework12/Homework12.csproj",
       "packagesPath": "/Users/zilongzhang/.nuget/packages/",
-      "outputPath": "/Users/zilongzhang/Desktop/WHU/软件构造基础/课件配套示例代码/附加章/TodoApi/obj/",
+      "outputPath": "/Users/zilongzhang/Desktop/WHU/软件构造基础/DotNetHomework/Homework12/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/zilongzhang/.config/NuGet/NuGet.Config"

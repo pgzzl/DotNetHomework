@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dy5pBG2QqMaog2FhJeTI/BA2s6DXU1g5aDg8rlbDpgkrPMr85vNsJ1CFLNjWr/Tzs6SpA9ZVJAEM6EZPgoPoog==",
+  "dgSpecHash": "WwciSvr6vzKjEIVfwcNPk2soqRPS0rWEoYHJEUVTJsIxj/SCmT7zsqOFPK1sSs/twORl8vUtNlfVrtVRWGRDMg==",
   "success": true,
-  "projectFilePath": "/Users/zilongzhang/Desktop/WHU/软件构造基础/课件配套示例代码/附加章/TodoApi/Homework12.csproj",
+  "projectFilePath": "/Users/zilongzhang/Desktop/WHU/软件构造基础/DotNetHomework/Homework12/Homework12.csproj",
   "expectedPackageFiles": [
     "/Users/zilongzhang/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.0/microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "/Users/zilongzhang/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

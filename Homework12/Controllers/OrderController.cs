@@ -55,7 +55,7 @@ namespace BlogApi.Controllers
 
         private IQueryable<Order> buildQuery(string name)
         {
-            IQueryable<Order> query = orderDb.Orders;
+            IQueryable<Order> query = orderDb.Orders.Include(o=>o.Customer);
             if (name != null)
             {
                 query = query.Where(t => t.Customer.CustomerID.Contains(name));
